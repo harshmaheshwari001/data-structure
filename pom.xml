@@ -24,11 +24,11 @@
 			<groupId>org.jfree</groupId>
 			<version>1.5.0</version>
 		</dependency>
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.oracle.psoftdevops.psto</groupId>
 			<artifactId>PSTO_NOTIFICATION</artifactId>
 			<version>1.0</version>
-		</dependency>
+		</dependency> -->
 	</dependencies>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
